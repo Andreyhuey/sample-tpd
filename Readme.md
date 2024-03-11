@@ -1,12 +1,11 @@
-**Sample Typescript + Python + Docker project
+Sample Typescript + Python + Docker project
 
 This is a sample project i used to learn creating full stack web applications with the stack: typescript (Next.js), python( flask framework) and Docker 
 
-i discovered this project below on (dev.to)["https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101"] the link below, i ran into some errors following the instructions but i fixed them along the way
+i discovered this project below on dev.to - https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101, i ran into some errors following the instructions but i fixed them along the way
 
 
-***Architecture
-
+Architecture
 simple schema explaining the app's architecture.
 
 Flask, Python + TypeScript full stack web app, with next.js
