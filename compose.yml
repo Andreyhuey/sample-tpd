@@ -6,7 +6,7 @@ services:
       context: ./server
       dockerfile: flask.dockerfile
     ports:
-      - '4000:4000'
+      - '5000:4000'
     restart: always
     environment:
       - DATABASE_URL=postgresql://postgres:postgres@db:5432/postgres
