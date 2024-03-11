@@ -2,6 +2,10 @@
 
 This is a sample project i used to learn creating full stack web applications with the stack: typescript (Next.js), python( flask framework) and Docker 
 
+i used the link below, i ran into some errors following the instructions but i fixed them along the way
+
+["https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101"]
+
 ***Architecture
 
 simple schema explaining the app's architecture.
